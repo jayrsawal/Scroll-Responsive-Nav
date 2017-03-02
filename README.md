@@ -44,8 +44,8 @@ $("#main-nav").peekaboo();
 <table>
 <thead>
   <tr>
-    <td>Options</td>
-    <td>Description</td>
+    <td><b>Options</b></td>
+    <td><b>Description</b></td>
   </tr>
 </thead>
 <tbody>
